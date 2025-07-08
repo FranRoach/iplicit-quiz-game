@@ -1,5 +1,4 @@
-# iplicit-quiz-game
-fun iplicit game for entry level curiosity
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
